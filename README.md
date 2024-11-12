@@ -1,2 +1,2 @@
-# kolixenigma
+# hexlet-git
 mega-russian-mexican
